@@ -1,4 +1,4 @@
-# html_screenshotter
+# html_screenshotter 📷
 Renders html and screenshots it.
 
 Remember to `pip install pyppeteer`in your py-env.
