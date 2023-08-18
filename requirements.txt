@@ -1,5 +1,5 @@
 appdirs==1.4.3
-certifi==2018.11.29
+certifi==2023.7.22
 pyee==5.0.0
 pyppeteer==0.0.25
 tqdm==4.28.1
